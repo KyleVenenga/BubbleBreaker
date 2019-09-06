@@ -1,3 +1,8 @@
+# BubbleBreaker
+# A bubble game, when more bubbles are joined together, the higher the value recieved when bursting them.
+# Kyle Venenga
+# August 2019
+
 import kivy
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager, Screen
